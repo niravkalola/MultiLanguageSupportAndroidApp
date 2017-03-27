@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#fe5600</color>
+    <color name="colorPrimaryDark">#fe5600</color>
+    <color name="colorAccent">#fe5600</color>
+    <color name="colorLogin">#a30100</color>
+
+    <color name="bg_gradient_start">#fe5600</color>
+    <color name="bg_gradient_end">#a30100</color>
+</resources>
